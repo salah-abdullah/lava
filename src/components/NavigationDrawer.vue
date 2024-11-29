@@ -47,6 +47,5 @@
 <style>
 .main {
   height: 88vh;
-
 }
 </style>
