@@ -18,7 +18,7 @@
         class="text-center mt-4"
         cols="12"
       >
-        {{ new Date().getFullYear() }} — <strong>Vuetify</strong>
+        {{ new Date().getFullYear() }} — <strong>Lava</strong>
       </v-col>
     </v-row>
   </v-footer>
