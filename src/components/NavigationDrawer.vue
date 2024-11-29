@@ -38,7 +38,7 @@
         </v-list>
       </v-navigation-drawer>
 
-      <v-main style="height:100em" />
+      <v-main style="height: 250px" />
     </v-layout>
   </v-card>
 </template>
