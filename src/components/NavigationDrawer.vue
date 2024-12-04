@@ -10,6 +10,7 @@
             prepend-icon="mdi-account"
             title="account"
           />
+          <log-in />
         </v-list>
 
         <v-divider />
@@ -34,7 +35,7 @@
             prepend-icon="mdi-star"
             title="Starred"
             value="starred"
-          />
+          />  
         </v-list>
       </v-navigation-drawer>
 
