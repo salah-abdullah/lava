@@ -35,7 +35,13 @@
             prepend-icon="mdi-star"
             title="Starred"
             value="starred"
-          />  
+          />
+          <v-list-item
+            prepend-icon="mdi-cog"
+            title="Settings"
+            value="settings"
+          />
+          />
         </v-list>
       </v-navigation-drawer>
 
