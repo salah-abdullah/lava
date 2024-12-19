@@ -41,11 +41,10 @@
             title="Settings"
             value="settings"
           />
-          />
         </v-list>
       </v-navigation-drawer>
 
-      <v-main class="main"/>
+      <v-main class="main" />
     </v-layout>
   </v-card>
 </template>
